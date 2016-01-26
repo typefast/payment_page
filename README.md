@@ -1,0 +1,1 @@
+Rails and stripe checkout
